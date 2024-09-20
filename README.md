@@ -6,6 +6,8 @@
 
 <p align="left">👩‍💻 Cursando Desenvolvimento de Sistemas - turma Codificando o Futuro (SESI/SENAI).<br>👩‍🎨 Diploma em Design Gráfico (MICROLINS). <br> 📷 Nas horas vagas amante de cinema, fotografia e arte. <br>✨ Sempre disposta a aprender coisas novas!😃</p>
 
+---
+
 ### Linguagens e ferramentas em processo de aprendizagem:
 
 ###
