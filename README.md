@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b5e2fa&size=35&center=true&vcenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil+:%29;Temos+coisas+legais+aqui!)](https://git.io/typing-svg) 
 
----
+___
 
 ### Sobre mim
 - 👩‍💻 Cursando Desenvolvimento de Sistemas - turma Codificando o Futuro (SESI/SENAI).
