@@ -1,6 +1,6 @@
-<h2 align="left">Oie, acompanhe meu desempenho aqui!!😃</h2>
+<h2 align="left">Oie, sou a Ale!</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4acb7&size=35&center=true&vcenter=true&width=1000&lines=Bem_vindo+ao+meu+perfil+:%29;Temos+coisas+legais+aqui!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b5e2fa&size=35&center=true&vcenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil+:%29;Temos+coisas+legais+aqui!)](https://git.io/typing-svg) 
 
 ###
 
