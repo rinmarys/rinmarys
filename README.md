@@ -1,5 +1,7 @@
 <h2 align="left">Oie, acompanhe meu desempenho aqui!!😃</h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vcenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!+:%29;Acompanhe+meu+desempenho+aqui,+sinta-se+à+vontade+de+me+stalkear+se+assim+desejar)](https://git.io/typing-svg) 
+
 ###
 
 <p align="left">👩‍💻 Cursando Desenvolvimento de Sistemas - turma Codificando o Futuro (SESI/SENAI).<br>👩‍🎨 Diploma em Design Gráfico (MICROLINS).<br>✨ Sempre disposta a aprender coisas novas!😃</p>
