@@ -1,6 +1,6 @@
 <h2 align="left">Oie, acompanhe meu desempenho aqui!!😃</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vcenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!+:%29;Acompanhe+meu+desempenho+aqui,+sinta-se+à+vontade+de+me+stalkear+se+assim+desejar)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f4acb7&size=35&center=true&vcenter=true&width=1000&lines=Bem_vindo+ao+meu+perfil+:%29;Temos+coisas+legais+aqui!)](https://git.io/typing-svg) 
 
 ###
 
