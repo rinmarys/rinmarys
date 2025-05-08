@@ -1,47 +1,42 @@
-## Oie, eu sou a Ale! 💻🎨📷
+## Oie, sou a Ale!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+cantinho+criativo!;Desenvolvedora+em+formação+e+artista+de+alma+%F0%9F%92%9C"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b5e2fa&size=35&center=true&vcenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil+:%29;Temos+coisas+legais+aqui!)](https://git.io/typing-svg) 
 
----
+###
 
-### 🌈 Sobre mim
+### Sobre mim
+- 👩‍💻 Cursando Desenvolvimento de Sistemas - turma Codificando o Futuro (SESI/SENAI).
+- 👩‍🎨 Diploma em Design Gráfico (MICROLINS). 
+- 📷 Nas horas vagas amante de cinema, fotografia e arte.
+- ✨ Sempre disposta a aprender coisas novas!😃
 
-- 💻 Cursando **Desenvolvimento de Sistemas** – turma *Codificando o Futuro* (SESI/SENAI).
-- 🎓 Formada em **Design Gráfico** – Microlins.
-- 📷 Apaixonada por **cinema**, **fotografia** e **arte**.
-- 🌱 Sempre em busca de **novos aprendizados** e aventuras criativas!
+###
 
-> "Programo como quem pinta: com emoção, erros e beleza."
+### Linguagens e ferramentas em processo de aprendizagem
 
----
+###
 
-### 🚀 Ferramentas & Tecnologias em Aprendizado
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
----
+###
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinmarys&show_icons=true&theme=tokyonight&count_private=true&border_radius=10" height="150" />
-  <img src="https://streak-stats.demolab.com?user=rinmarys&theme=tokyonight&hide_border=false&border_radius=10" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinmarys&layout=compact&langs_count=6&theme=tokyonight&border_radius=10" height="150" />
+### Estatísticas do Meu Perfil
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rinmarys&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=rinmarys&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinmarys&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 🤝 Vamos nos conectar?
+### Sinta-se a vontade para acompanhar meu desenvolvimento e entrar em contato!
 
-Seja bem-vinde ao meu universo digital! Fique à vontade para explorar, acompanhar meus projetos e me chamar pra trocar ideia ✨💬
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b5e2fa&height=120&section=footer"/>
